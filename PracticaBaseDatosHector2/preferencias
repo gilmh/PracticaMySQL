@@ -1,0 +1,8 @@
+#Fichero de propiedades
+#Wed Feb 05 22:42:59 CET 2014
+contrasena=
+baseDatos=hectordatos
+usuario=root
+driver=Mysql
+puerto=3306
+servidor=localhost
